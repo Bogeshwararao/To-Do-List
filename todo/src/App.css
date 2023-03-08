@@ -16,6 +16,6 @@ input{
   color:#fff;
   border-top:none;
   /* text-align:center; */
-  float:center;
+  align-item:center;
  width:20rem;
 }
